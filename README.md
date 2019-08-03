@@ -9,6 +9,6 @@ As the projects were used by an organisation, they contained personal informatio
 For the SSFE projects I thank Alpeeva Valeria for the ideas and support.
 
 List of projects:
-- `spring_ball.ipynb`: scripts for the SSFE's annual Spring Ball. `vkapi` and `gspread` libraries were used to use Google Sheets as a data organiser, and then compose VK messages based on that data. `vkapi` was also used to create a VK-bot on a free server which notified the administrators on the incoming messages in a convenient way:
+- `spring_ball.ipynb`: scripts for the SSFE's annual Spring Ball. `vkapi` and `gspread` libraries were used to utilize Google Sheets as a data organiser, and then compose VK messages based on that data. `vkapi` was also used to create a VK-bot on a free server which notified the administrators of the incoming messages in a convenient way:
   - `vk_spring_ball_bot.py`: the code for this VK-bot.
 - `econ_initiation.ipynb`: forthcoming.
